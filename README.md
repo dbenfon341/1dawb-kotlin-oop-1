@@ -1,4 +1,4 @@
-# P4.2 - Ejercicios básicos de POO 1 al 5
+# Ejercicios básicos de POO 1 al 5
 ## Ejercicio 4.1
 Crear una clase Rectángulo, con atributos base y altura. La clase debe disponer del constructor y los métodos para calcular el area y el perimetro. Los atributos no se podrán modificar, aunque si consultar. Por último, tendrán que ser mayor que 0.
 
